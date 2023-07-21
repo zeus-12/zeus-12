@@ -16,7 +16,7 @@
 
 ## My projects
 
-[FMHY](https://fmhy.ml) - Comprehensive wiki, search, Guides for a popular Reddit community, [FMHY](https://www.reddit.com/r/FREEMEDIAHECKYEAH)
+[FMHY](https://fmhy.net) - Comprehensive wiki, search, Guides for a popular Reddit community, [FMHY](https://www.reddit.com/r/FREEMEDIAHECKYEAH)
 
 [Mentora](https://mentora.cf) - Academic portal for the students of my campus, with details about the course, ask-doubts/ get a mentor section.
 

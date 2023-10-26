@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Vishnu! 👋</h1>
-<p align="center">I work on websites, mobile applications</p>
+<p align="center">I work on websites, mobile applications, automations</p>
 
 ## I work with this tech
 <p align="center">

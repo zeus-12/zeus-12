@@ -4,7 +4,7 @@
 ## I work with this tech
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=ts,express,nodejs,py,react,nextjs,tailwindcss,prisma,mysql,postgres" alt="TypeScript, Express.js, Node.js, React, Python, Next.js, Tailwind, Prisma, MySQL, PostgreSQL" />
+    <img src="https://skillicons.dev/icons?i=ts,express,nodejs,py,react,nextjs,tailwindcss,prisma,mysql,postgres,nestjs" alt="TypeScript, Express.js, Node.js, React, Python, Next.js, Tailwind, Prisma, MySQL, PostgreSQL, Nest JS" />
   </a>
 </p>
 

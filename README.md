@@ -16,10 +16,11 @@
 
 ## My projects
 
-[FMHY](https://fmhy.net) - Comprehensive wiki, search, Guides for a popular Reddit community, [FMHY](https://www.reddit.com/r/FREEMEDIAHECKYEAH)
 
 [Mentora](https://mentora.cf) - Academic portal for the students of my campus, with details about the course, ask-doubts/ get a mentor section.
 
 [Everhealth](https://github.com/zeus-12/EverHealth) - Mobile app encouraging users to complete daily tasks using gamification techniques
+
+[FMHY](https://fmhy.tk) - Comprehensive wiki, search, Guides for a popular Reddit community, [FMHY](https://www.reddit.com/r/FREEMEDIAHECKYEAH)
 
 [Ping](https://github.com/zeus-12/ping-dashboard) - Emergency-alert mobile app, dashboard for on-campus students featuring real-time location tracking and proximity-based camera feeds.

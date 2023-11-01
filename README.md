@@ -21,6 +21,6 @@
 
 [Everhealth](https://github.com/zeus-12/EverHealth) - Mobile app encouraging users to complete daily tasks using gamification techniques
 
-[FMHY](https://fmhy.tk) - Comprehensive wiki, search, Guides for a popular Reddit community, [FMHY](https://www.reddit.com/r/FREEMEDIAHECKYEAH)
+[FMHY](https://fmhy.tk) - Comprehensive wiki, search, Guides for a popular Reddit community.
 
 [Ping](https://github.com/zeus-12/ping-dashboard) - Emergency-alert mobile app, dashboard for on-campus students featuring real-time location tracking and proximity-based camera feeds.

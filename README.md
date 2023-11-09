@@ -14,8 +14,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeus-12&layout=compact&theme=onedark&count_private=true&hide_border=true&bg_color=0d1117" alt="Top Langs">
 </a></p>
 
-## My projects
+## Some really cool stuff I've built
 
+[Uxie](https://uxie.vercel.app) - A Pdf reader app with note taking, annotations, multi-people collaboration support and LLM integration.
 
 [Mentora](https://mentora.cf) - Academic portal for the students of my campus, with details about the course, ask-doubts/ get a mentor section.
 
